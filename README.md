@@ -234,5 +234,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 
 This project is based on a demonstration of building enterprise AI agents with Retool, showcasing secure document retrieval, enterprise governance, and Retrieval-Augmented Generation (RAG) workflows for internal knowledge management.
-
-You can further customize this README by adding your GitHub repository URL, screenshots, architecture diagrams, and deployment instructions.
